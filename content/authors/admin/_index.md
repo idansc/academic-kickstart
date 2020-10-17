@@ -21,7 +21,7 @@ organizations:
 bio: My research interests include cognition, attention models and multi-modal problems.
 
 interests:
-- Artificial Intelligence
+- Artificial Intelligence & Cognition
 - Attention Models
 - Multimodal Learning
 - Computer Vision
@@ -31,7 +31,7 @@ education:
   courses:
   - course: PhD in Computer Science
     institution: Technion
-    year: 2020 (Expected)
+    year: 2020 
   - course: BSc in Computer Science
     institution: Technion
     year: 2015
@@ -71,6 +71,6 @@ user_groups:
 - Researchers
 - Visitors
 ---
-Idan's research is centered around cognition in deep learning models. This includes attention models, multimodal problems, and AI tasks; such as, <a href="https://visualqa.org/" target="_blank">visual question answering</a> and <a href="https://visualdialog.org/" target="_blank">visual dialog</a>.
+Idan's research is centered around cognition in deep learning models. This includes attention models, multimodal problems, and multimodal bias removal. Specifically in AI tasks; such as, <a href="https://visualqa.org/" target="_blank">visual question answering</a> and <a href="https://visualdialog.org/" target="_blank">visual dialog</a>.
 
-Idan Schwartz is a doctoral candidate in the Computer Science department at the Technion working with <a href="http://www.alexander-schwing.de/" target="_blank">Alexander G. Schwing</a> and <a href="https://ie.technion.ac.il/~tamir.hazan/tamir.html" target="_blank">Tamir Hazan</a>.  In 2016 he joined eBay as a researcher, applying computer vision and natural language processing solutions for eBay's catalog. In 2019 he joined Microsoft as a researcher for Cortana virtual assistant.  
+Idan Schwartz is a doctoral candidate in the Computer Science department at the Technion, working with <a href="http://www.alexander-schwing.de/" target="_blank">Alexander G. Schwing</a> and <a href="https://ie.technion.ac.il/~tamir.hazan/tamir.html" target="_blank">Tamir Hazan</a>. In 2016 he joined eBay as a researcher, applying computer vision and natural language processing solutions for eBay's catalog. In 2019 he joined Microsoft as a researcher for Search, Assistant, and Intelligence group. In 2020, he joined Spot (acquired by Netapp) to lead the research group. 

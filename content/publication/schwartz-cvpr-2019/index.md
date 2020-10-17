@@ -8,6 +8,6 @@ abstract: "The recently proposed audio-visual scene-aware dialog task paves the 
 featured: false
 publication: "*CVPR'19*"
 url_pdf: "https://arxiv.org/pdf/1904.05876.pdf"
-url_code: "https://github.com/idansc/fga"
+url_code: "https://github.com/idansc/simple-avsd"
 ---
 
